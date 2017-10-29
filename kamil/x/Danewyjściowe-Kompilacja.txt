@@ -1,0 +1,8 @@
+﻿1>------ Kompilacja rozpoczęta: Projekt: x, Konfiguracja: Debug Win32 ------
+1>x.cpp
+1>c:\users\kamil\source\repos\x\x\x.cpp(12): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+1>c:\users\kamil\source\repos\x\x\x.cpp(12): warning C4101: "o": lokalna zmienna, do której nie istnieje odwołanie
+1>c:\users\kamil\source\repos\x\x\x.cpp(12): warning C4101: "u": lokalna zmienna, do której nie istnieje odwołanie
+1>x.vcxproj -> C:\Users\Kamil\source\repos\x\Debug\x.exe
+1>Kompilowanie projektu „x.vcxproj” wykonane.
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========

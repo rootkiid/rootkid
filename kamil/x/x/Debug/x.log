@@ -1,0 +1,3 @@
+﻿  x.cpp
+c:\users\kamil\source\repos\x\x\x.cpp(12): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+  x.vcxproj -> C:\Users\Kamil\source\repos\x\Debug\x.exe
